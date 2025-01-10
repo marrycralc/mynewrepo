@@ -1,2 +1,1 @@
-echo "new file";
-echo "jdfjdkfjdfdf";
+echo "jjdjdjds";
